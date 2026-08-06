@@ -1,0 +1,31 @@
+# OS and notebooks
+.DS_Store
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# AA generated data
+AA/data/blastdb/
+AA/data/matrices/
+AA/data/evo_distances/
+AA/results_reconstruct/
+AA/results_nj/
+
+# NT generated data
+NT/data/blastdb/
+NT/data/matrices/
+NT/data/evo_distances/
+NT/results_reconstruct/
+NT/results_nj/
+
+# Final analysis outputs
+paper_analysis_nj_rep100/
+
+# Temporary files and logs
+*.tmp
+*.log
