@@ -1,4 +1,4 @@
-# Phylogeny Reconstruction with Simulated Bifurcation
+# Graph Construction in QUBO-Based Recursive Phylogenetic Tree Reconstruction
 
 This repository contains the code and released data used for the phylogenetic reconstruction experiments reported in the associated paper. Amino-acid (`AA`) and nucleotide (`NT`) analyses are organized separately, while shared neighbor-joining (NJ) and final comparison procedures are provided under `common/`.
 
