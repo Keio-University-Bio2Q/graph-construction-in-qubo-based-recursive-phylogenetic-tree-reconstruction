@@ -6,7 +6,11 @@ Methodological definitions, experimental rationale, and interpretation of the re
 
 ## Associated paper
 
-Citation information will be added upon publication.
+Y. Kanazawa, A. Joshi, and T. Koyama.
+**Graph construction in QUBO-based recursive phylogenetic tree reconstruction.**
+arXiv preprint, 2026.
+
+arXiv: https://arxiv.org/abs/2609.16640
 
 ## Repository structure
 
@@ -281,7 +285,22 @@ This repository provides the corresponding executable code, released inputs, ran
 
 ## Citation
 
-Citation information will be added upon publication.
+If you use this code or released data, please cite:
+
+Y. Kanazawa, A. Joshi, and T. Koyama.
+*Graph construction in QUBO-based recursive phylogenetic tree reconstruction.*
+arXiv preprint, 2026.
+
+```bibtex
+@misc{kanazawa2026graphconstructionqubobasedrecursive,
+      title={Graph construction in QUBO-based recursive phylogenetic tree reconstruction}, 
+      author={Yoshiki Kanazawa and Ashish Joshi and Takahiko Koyama},
+      year={2026},
+      eprint={2609.16640},
+      archivePrefix={arXiv},
+      primaryClass={q-bio.PE},
+      url={https://arxiv.org/abs/2609.16640}, 
+}
 
 The WAG model parameters are not original to this repository. The original WAG model and the source of the distributed parameter file should be cited as described in the associated paper.
 
